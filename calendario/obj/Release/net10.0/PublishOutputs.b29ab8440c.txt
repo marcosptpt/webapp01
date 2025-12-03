@@ -1,0 +1,7 @@
+C:\AwsBraga\webapp01\calendario\out\calendario.exe
+C:\AwsBraga\webapp01\calendario\out\appsettings.Development.json
+C:\AwsBraga\webapp01\calendario\out\appsettings.json
+C:\AwsBraga\webapp01\calendario\out\calendario.dll
+C:\AwsBraga\webapp01\calendario\out\calendario.runtimeconfig.json
+C:\AwsBraga\webapp01\calendario\out\calendario.pdb
+C:\AwsBraga\webapp01\calendario\out\calendario.deps.json
